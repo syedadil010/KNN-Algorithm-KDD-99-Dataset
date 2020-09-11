@@ -15,3 +15,7 @@ The algorithm was implemeted as a part of the group project - **Network Intrusio
 **Math**:- The Python Math Library provides us access to some common math functions and constants in Python.  
 **Sklearn**:- It is used for classification metric calculation as well as confusion matrix evaluation.   
 **Seaborn**:- Statistical data visualization.
+
+
+## Output
+![](knn.png)
